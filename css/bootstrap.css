@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
-body {
+body {width:100%;
   margin: 0;
 }
 article,
